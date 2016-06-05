@@ -184,7 +184,7 @@ global $themify; ?>
 	/////////////////////////////////////////////
 	// Sidebar
 	/////////////////////////////////////////////
-	if ($themify->layout != 'sidebar-none'): get_sidebar(); endif; ?>
+	//if ($themify->layout != 'sidebar-none'): get_sidebar(); endif; ?>
 
 	
 

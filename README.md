@@ -59,7 +59,7 @@ At the beginning of the hackathon, the organization stated that the proposed sol
 
 It was defined so ambiguously on purpose.
 
-As two of the event partners were involved in beacon technology -Kontakt.io and BeaconControl-, we agreed that our solution will make use of it and address the "Space" concept from the [Physical Web](https://google.github.io/physical-web/) perspective.
+As two of the event partners were involved in [beacon technology](https://developers.google.com/beacons/) -Kontakt.io and BeaconControl-, we agreed that our solution will make use of it and address the "Space" concept from the [Physical Web](https://google.github.io/physical-web/) perspective.
 
 # The idea
 

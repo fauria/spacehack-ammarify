@@ -59,7 +59,7 @@ At the beginning of the hackathon, the organization stated that the proposed sol
 
 It was defined so ambiguously on purpose.
 
-As two of the event partners were involved in beacon technology -Kontakt.io and BeaconControl-, we agreed that our solution will make use of it and address the "Space" concept from the [Physical Web](https://google.github.io/physical-web/) perspective.
+As two of the event partners were involved in [beacon technology](https://developers.google.com/beacons/) -Kontakt.io and BeaconControl-, we agreed that our solution will make use of it and address the "Space" concept from the [Physical Web](https://google.github.io/physical-web/) perspective.
 
 # The idea
 
@@ -75,11 +75,11 @@ The idea was to build a website where former refugees could explain through a vi
 
 That included how to ask for help, which forms were needed and how to fill them, how to move between offices, and in general what to expect from a particular public administration organism and their processes.
 
+![Ammarify Android App](https://raw.githubusercontent.com/fauria/spacehack-ammarify/master/pictures/gifs/screencast-app.gif)
+
 Once the video was posted to the website, the user could then request a beacon to be placed in that particular facility, broadcasting the URL to the actual content.
 
 This way, a potential user could download an app, walk into an office, check for contextual information, and if available, get specific content that ideally would make the whole process simpler.
-
-![Ammarify Android App](https://raw.githubusercontent.com/fauria/spacehack-ammarify/master/pictures/gifs/screencast-app.gif)
 
 The name of one of the refugees that help us was Ammar, and so we called our application Ammarify.
 

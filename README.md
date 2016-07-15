@@ -85,6 +85,8 @@ The name of one of the refugees that help us was Ammar, and so we called our app
 
 # Technology
 
+![Kontakt.io Beacons](https://raw.githubusercontent.com/fauria/spacehack-ammarify/master/pictures/the_technology.jpg)
+
 For testing purposes, we first implemented a trivial BLE Beacon using Eddystone protocol using a Raspberry Pi 3.
 
 It helped us test the idea before unboxing one of the [dev kits](http://developers.kontakt.io/) that Kontakt.io made availbale to the participants.

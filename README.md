@@ -140,5 +140,6 @@ We had the opportunity to meet people from different cultures, with many backgro
 # Press
 
 * Article: http://www.welt.de/wirtschaft/webwelt/article156087994/Diese-Fluechtlinge-koennten-Ihre-neuen-Entwickler-sein.html
+
 * Follow-up: https://medium.com/@travisjtodd/a-reflection-on-spacehack-the-refugee-journey-89ae22e9db7b
 ---

@@ -138,8 +138,7 @@ Overall, Spacehack 2016 was for us both an excellent initiative and amazing expe
 We had the opportunity to meet people from different cultures, with many backgrounds to learn and enrich from.
 
 # Press
+* Article: http://www.welt.de/wirtschaft/webwelt/article156087994/Diese-Fluechtlinge-koennten-Ihre-neuen-Entwickler-sein.html
+* Follow-up article: https://medium.com/@travisjtodd/a-reflection-on-spacehack-the-refugee-journey-89ae22e9db7b
 
-- Article: http://www.welt.de/wirtschaft/webwelt/article156087994/Diese-Fluechtlinge-koennten-Ihre-neuen-Entwickler-sein.html
-
-- Article: https://medium.com/@travisjtodd/a-reflection-on-spacehack-the-refugee-journey-89ae22e9db7b
 ---

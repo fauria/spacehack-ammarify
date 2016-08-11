@@ -59,39 +59,39 @@ At the beginning of the hackathon, the organization stated that the proposed sol
 
 It was defined so ambiguously on purpose.
 
-As two of the event partners were involved in [beacon technology](https://developers.google.com/beacons/) -Kontakt.io and BeaconControl-, we agreed that our solution will make use of it and address the "Space" concept from the [Physical Web](https://google.github.io/physical-web/) perspective.
+As two of the event partners were involved in [beacon technology](https://developers.google.com/beacons/) -Kontakt.io and BeaconControl-, we agreed that our solution would make use of it and address the "Space" concept from the [Physical Web](https://google.github.io/physical-web/) perspective.
 
 # The idea
 
-When the hackathon kicked off, we brainstormed some initial ideas and soon realized that, in order to succeed, we had to integrate actual refugees on our project.
+When the hackathon kicked off, we brainstormed some initial concepts and soon realized that, in order to succeed, we had to integrate actual refugees on our project.
 
 Before coming up with our final idea, we had to pivot a few times over the use of beacons and the actual needs of refugees. 
 
 All of them agreed on bureaucratic burden as one of their main concerns, so we decided to go that way.
 
-Although we could not improve bureaucratic processes, we thought that at least we could improve them by sharing previous experiences, decreasing uncertainty and enabling a communication channel between past, present and future refugees.
+Although we were unable to improve bureaucratic processes, we thought that at least we could enhance them by sharing previous experiences from other refugees, decreasing uncertainty and enabling a communication channel between past, present and future users.
 
-The idea was to build a website where former refugees could explain through a video different administrative processes to newcomers, easing the process to them.
+The idea was to build a website where former refugees could explain and clarify through a video different administrative processes to newcomers, easing the process to them.
 
-That included how to ask for help, which forms were needed and how to fill them, how to move between offices, and in general what to expect from a particular public administration organism and their processes.
+That included topics such as how to ask for help, which forms were needed and how to fill them, how to move between offices, and in general what to expect from a particular public administration organism and their operations.
 
 ![Ammarify Android App](https://raw.githubusercontent.com/fauria/spacehack-ammarify/master/pictures/gifs/screencast-app.gif)
 
-Once the video was posted to the website, the user could then request a beacon to be placed in that particular facility, broadcasting the URL to the actual content.
+Once the video was posted to the website, the user could then request a beacon to be placed in that particular facility, broadcasting a URL pointing to the actual content.
 
 This way, a potential user could download an app, walk into an office, check for contextual information, and if available, get specific content that ideally would make the whole process simpler.
 
-The name of one of the refugees that help us was Ammar, and so we called our application Ammarify.
+The name of one of the refugees that helped us was Ammar, and so we called our application **Ammarify**.
 
 # Technology
 
 ![Kontakt.io Beacons](https://raw.githubusercontent.com/fauria/spacehack-ammarify/master/pictures/the_technology.jpg)
 
-For testing purposes, we first implemented a trivial BLE Beacon using Eddystone protocol using a Raspberry Pi 3.
+For testing purposes, we first implemented a trivial BLE Beacon using the Eddystone protocol through a Raspberry Pi 3.
 
 It helped us test the idea before unboxing one of the [dev kits](http://developers.kontakt.io/) that Kontakt.io made availbale to the participants.
 
-We also developed an application prototype using [kontakt-beacon-admin-sample-app](https://github.com/kontaktio/kontakt-beacon-admin-sample-app) from Kontakt.io, to test the capabilities of our kits of beacons.
+We also developed an application prototype using [kontakt-beacon-admin-sample-app](https://github.com/kontaktio/kontakt-beacon-admin-sample-app) from Kontakt.io, to test the capabilities of our beacon dev kits.
 
 # The prototype
 
@@ -103,13 +103,13 @@ We recorded and uploaded to Youtube [an interview with Ammar](https://www.youtub
 
 After uploading the application to Heroku, we setup two beacons to broadcast two URLs, one for each of the Wordpress pages that embedded the videos.
 
-That way we were able to illustrate the whole flow, form the recording of the video to the request of a new beacon and broadcast and discovery of the corresponding URL.
+That way we were able to illustrate the whole flow, form the recording of the video to the request of a new beacon, broadcast and discovery of the corresponding URL.
 
 # The pitch
 
 ![Team Ammarify pitching](https://raw.githubusercontent.com/fauria/spacehack-ammarify/master/pictures/the_pitch.jpg)
 
-Our team mate Javier Yuste pitched our project during the 4 minutes slot each team had assigned, earning a big round of applause from the public.
+Our teammate Javier Yuste pitched our project during the 4 minutes slot each team had assigned, earning a big round of applause from the public.
 
 During the next minute, he properly answered the questions raised by the jury, concerning feasibility, scalability and cost.
 
@@ -140,5 +140,5 @@ We had the opportunity to meet people from different cultures, with many backgro
 # Press
 
 * Article: http://www.welt.de/wirtschaft/webwelt/article156087994/Diese-Fluechtlinge-koennten-Ihre-neuen-Entwickler-sein.html
-
+* Follow-up: https://medium.com/@travisjtodd/a-reflection-on-spacehack-the-refugee-journey-89ae22e9db7b
 ---
